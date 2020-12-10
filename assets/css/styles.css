@@ -1,0 +1,40 @@
+body {
+}
+
+#evInput {
+  width: max-content;
+}
+
+#evInput {
+}
+
+#table_container {
+  width: 100%;
+}
+
+body {
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to right, #74ebd5, #ACB6E5);
+  background: linear-gradient(to right, #74ebd5, #ACB6E5);
+  min-height: 100vh;
+}
+
+thead {
+  display: block;
+}
+
+tbody {
+  display: block;
+  height: 700px;
+  overflow-y: scroll;
+}
+
+td, th {
+  width: 20em;
+}
+
+table {
+  width: 100%;
+  font-size: 22px;
+}
+
